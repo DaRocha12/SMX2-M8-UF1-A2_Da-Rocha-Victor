@@ -25,6 +25,6 @@
 |Google Docs|![Imagen](https://github.com/DaRocha12/SMX2-M8-UF1-A2_Da-Rocha-Victor/blob/main/Check_mark.svg.JPG "Titulo opcional")|
 |Google Slides|![Imagen](https://github.com/DaRocha12/SMX2-M8-UF1-A2_Da-Rocha-Victor/blob/main/Check_mark.svg.JPG "Titulo opcional")|
 |Google Sheets|![Imagen](https://github.com/DaRocha12/SMX2-M8-UF1-A2_Da-Rocha-Victor/blob/main/Check_mark.svg.JPG "Titulo opcional")|
-|Google Calendar|Calendario|
-|Google Meet|ordenador|
+|Google Calendar|![Imagen](https://github.com/DaRocha12/SMX2-M8-UF1-A2_Da-Rocha-Victor/blob/main/calendario%20guay.jpg "Titulo opcional")|
+|Google Meet|![Imagen](https://github.com/DaRocha12/SMX2-M8-UF1-A2_Da-Rocha-Victor/blob/main/4685720.jpg "Titulo opcional")|
 | ... |...|
