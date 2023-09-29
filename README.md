@@ -35,7 +35,7 @@
 <!DOCTYPE htmi>
 <html lang="ei
 <head>
-     <meta charset="UTF-8">
+    <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
@@ -45,3 +45,6 @@
 </body>
 </html>
 ```
+
+8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+![Imagen](https://github.com/DaRocha12/SMX2-M8-UF1-A2_Da-Rocha-Victor/blob/main/Captura%20de%20pantalla%202023-09-29%20162956.png "Titulo opcional")|
