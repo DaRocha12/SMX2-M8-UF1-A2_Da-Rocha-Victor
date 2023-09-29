@@ -24,8 +24,8 @@
 |----------|:-----------:|
 |Google Docs|![Imagen](https://github.com/DaRocha12/SMX2-M8-UF1-A2_Da-Rocha-Victor/blob/main/Check_mark.svg.JPG "Titulo opcional")|
 
-|Google Slides|Visto|
-|Google Sheets|Visto|
+|Google Slides|![Imagen](https://github.com/DaRocha12/SMX2-M8-UF1-A2_Da-Rocha-Victor/blob/main/Check_mark.svg.JPG "Titulo opcional")|
+|Google Sheets|![Imagen](https://github.com/DaRocha12/SMX2-M8-UF1-A2_Da-Rocha-Victor/blob/main/Check_mark.svg.JPG "Titulo opcional")|
 |Google Calendar|Calendario|
 |Google Meet|ordenador|
 | ... |...|
