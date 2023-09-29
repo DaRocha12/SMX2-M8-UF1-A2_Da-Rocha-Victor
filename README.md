@@ -1,2 +1,5 @@
 # SMX2-M8-UF1-A2_Da-Rocha-Victor
-practica 1
+
+# Evaluacíon inicial 
+
+1. ¿Qué es una pagina web 
