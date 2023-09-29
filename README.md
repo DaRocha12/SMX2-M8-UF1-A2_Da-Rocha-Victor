@@ -3,5 +3,28 @@
 # Evaluacíon inicial 
 
 1. ¿Qué es una pagina web?
-Conjunto de información que se encuentra en una dirección determinada de internet
- printf( RED      " This text is RED!     \n" );
+
+   Conjunto de información que se encuentra en una dirección determinada de internet
+
+2. ¿Que es un sitio web?
+
+    es un espacio virtual que contiene toda la información que una persona o empresa quiere difundir a través de internet
+
+3. ¿Que es una aplicacion web?
+
+   es un software que se ejecuta en el navegador web
+
+4. ¿Que es una herramienta ofimatica 
+
+   son aquellos programas o aplicaciones que nos permiten manipular informáticamente la información con la que se trabaja de forma habitual en una oficina
+
+5. 
+
+|Titulo |Visto|
+|----------|:-----------:|
+|Google Docs|Visto|
+|Google Slides|Visto|
+|Google Sheets|Visto|
+|Google Calendar|Calendario|
+|Google Meet|ordenador|
+| ... |...|
