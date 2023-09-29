@@ -28,3 +28,20 @@
 |Google Calendar|![Imagen](https://github.com/DaRocha12/SMX2-M8-UF1-A2_Da-Rocha-Victor/blob/main/calendario%20guay.jpg "Titulo opcional")|
 |Google Meet|![Imagen](https://github.com/DaRocha12/SMX2-M8-UF1-A2_Da-Rocha-Victor/blob/main/4685720.jpg "Titulo opcional")|
 |...|...|
+
+6. ¿Que es HTML?
+
+```
+<!DOCTYPE htmi>
+<html lang="ei
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+</head>
+<body>
+
+</body>
+</html>
+```
