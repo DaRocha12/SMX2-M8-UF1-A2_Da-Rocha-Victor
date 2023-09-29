@@ -18,7 +18,7 @@
 
    son aquellos programas o aplicaciones que nos permiten manipular informáticamente la información con la que se trabaja de forma habitual en una oficina
 
-5.  [link](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de google")
+5.  [Herramientas de google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de google")
 
 |Titulo |Visto|
 |----------|:-----------:|
